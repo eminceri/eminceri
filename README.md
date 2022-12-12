@@ -1,12 +1,12 @@
-### Hi, I'm Ahmet Emin👋
+<h1 align="center">Hi 👋, I'm Ahmet Emin Ceri</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ahmet emin ceri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmet emin ceri" height="30" width="40" /></a>
+<a href="https://instagram.com/ahmetceri.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmetceri.1" height="30" width="40" /></a>
+<a href="https://dribbble.com/q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="q" height="30" width="40" /></a>
+</p>
 
-
-- 🌱 I’m currently learning Data Analysis and Machine Learnin at Clarusway 
-- 👯 I’m looking to collaborate on YouTube
-- 🤔 I’m looking for help with Pandas and Python
-- 💬 Ask me about anything
-- 📫 How to reach me: [Linkedin] [https://www.linkedin.com/in/ahmet-emin-ceri/] <br>
-                      [Instagram] [https://www.instagram.com/ahmetceri.1/?hl=tr] 
-- ⚡ Fun fact: I love to camp, swim and travel
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
